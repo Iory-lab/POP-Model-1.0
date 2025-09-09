@@ -1,7 +1,7 @@
 # POP Prediction Model: Data Preprocessing, Modeling, and Evaluation  
 
 
-**Repository**: [https://github.com/Iory-lab/POP](https://github.com/Iory-lab/POP)  
+**Repository**: [https://github.com/Iory-lab/POP-Model-1.0](https://github.com/Iory-lab/POP-Model-1.0)  
 **R version**: 4.4.2  
 
 
